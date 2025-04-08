@@ -1,0 +1,16 @@
+in\basha\service\JwtService.class
+in\basha\config\SecurityConfig.class
+in\basha\controller\AdminController.class
+in\basha\entity\User.class
+in\basha\repo\UserRepository.class
+in\basha\entity\Role.class
+in\basha\dto\AuthResponse.class
+in\basha\controller\AuthController.class
+in\basha\controller\RecruiterController.class
+in\basha\config\JwtAuthFilter.class
+in\basha\controller\ApplicantController.class
+in\basha\RoleBasedAccessControlSystemApplication.class
+in\basha\service\CustomUserDetailsService.class
+in\basha\dto\AuthRequest.class
+in\basha\dto\SignupRequest.class
+in\basha\repo\RoleRepository.class
